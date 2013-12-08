@@ -1,11 +1,10 @@
-#maben
-#target/
+#maven
+workspace/mvc/target
 
-#
 *.class
 
 # Eclipse project files
-.classpath
-.project
-
-.metadata
+workspace/.metadata
+workspace/RemoteSystemsTempFiles
+workspace/mvc/.classpath
+workspace/mvc/.project
