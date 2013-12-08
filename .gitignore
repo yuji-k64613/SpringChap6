@@ -1,1 +1,11 @@
-target/
+#maben
+#target/
+
+#
+*.class
+
+# Eclipse project files
+.classpath
+.project
+
+.metadata
